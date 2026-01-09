@@ -1,2 +1,2 @@
 # keyAnswer-Task
-This is the answare you are looking for
+This is the answer you are looking for
